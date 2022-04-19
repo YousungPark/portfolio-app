@@ -24,7 +24,7 @@ function Header() {
                                 www.linkedin.com/in/yousungpark</a></li>
                             <li className="list-inline-item my-2"><a href="#" className="fs-5 link-light text-decoration-none"><i
                                 className="bi bi-github pe-1"></i>
-                                </a></li>
+                                https://github.com/YousungPark/portfolio-app</a></li>
                         </ul>
                     </div>
                 </div>
